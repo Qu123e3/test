@@ -9,7 +9,11 @@ int main()
     {
         S += i;
     }
-    mbnvmabj
+    if (123)
+    {
+        return 123;
+    }
+    
 
         printf("\nS = %d", S);
 }
