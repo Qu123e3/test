@@ -9,9 +9,6 @@ int main()
     {
         S += i;
     }
-    if (123)
-    {
-        return 123;
-    }
+    // Thanh qua dep trai
     printf("\nS = %d", S);
 }
