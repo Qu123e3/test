@@ -13,7 +13,5 @@ int main()
     {
         return 123;
     }
-    
-
-        printf("\nS = %d", S);
+    printf("\nS = %d", S);
 }
